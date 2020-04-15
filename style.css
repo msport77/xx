@@ -47,7 +47,7 @@ body {
 #myTable th, #myTable td {
   text-align: center;
   padding: 7px 0px;
-  border: 1px solid #fd0101;
+  border: 1px solid #00f9ff;
   font-size:12px;
   color:white;
 }
@@ -55,7 +55,7 @@ body {
 #myTable th {
   color:#6d5818;
   background-color: #0e21cc; /* For browsers that do not support gradients */
-      background-image: linear-gradient(#000000, #cc0e0e, #000000); /* Standard syntax (must be last) */
+      background-image: linear-gradient(#101010, #2b0096, #101010); /* Standard syntax (must be last) */
 }
 
 
@@ -64,9 +64,9 @@ body {
 }
 
 #myTable tr:hover {
-  border-bottom: 1px solid #DC143C;
-  color:#DC143C;
-  background-color: #DC143C;
+  border-bottom: 1px solid #0eb8bd;
+  color:#0eb8bd;
+  background-color: #0eb8bd;
 }
 
 table tr.header, table tr:hover {
